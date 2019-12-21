@@ -30,3 +30,5 @@ Pops one and waits the number of senconds specified.
 Pops one, then pushes it back on twice.
 ### `p`
 Pops one, and deletes.
+## How to run?
+See [implementations](implementations.md).
